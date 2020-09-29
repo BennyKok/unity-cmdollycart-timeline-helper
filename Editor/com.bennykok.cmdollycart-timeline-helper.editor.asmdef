@@ -1,0 +1,19 @@
+{
+    "name": "com.bennykok.cmdollycart-timeline-helper.rditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:41d84c9209265454294c3c2ef4b2967f",
+        "GUID:4307f53044263cf4b835bd812fc161a4"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

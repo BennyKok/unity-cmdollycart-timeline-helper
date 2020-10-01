@@ -14,5 +14,18 @@ namespace BK.CMDollyCartTimelineHelper
         {
             return ScriptPlayable<CMDollyCartMixerBehaviour>.Create(graph, inputCount);
         }
+
+        public override void GatherProperties(PlayableDirector director, IPropertyCollector driver)
+        {
+#if UNITY_EDITOR
+            CinemachineDollyCart trackBinding = director.GetGenericBinding(this) as CinemachineDollyCart;
+            if (trackBinding == null)
+                return;
+
+            driver.AddFromName<CinemachineDollyCart>(trackBinding.gameObject, "m_Position");
+            driver.AddFromName<CinemachineDollyCart>(trackBinding.gameObject, "m_Speed");
+#endif
+            base.GatherProperties(director, driver);
+        }
     }
 }

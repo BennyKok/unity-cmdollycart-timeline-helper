@@ -1,7 +1,7 @@
 {
   "name": "com.bennykok.cmdollycart-timeline-helper",
   "displayName": "CMDollyCart Timeline Helper",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "unity": "2020.1",
   "description": "- Custom Timeline track for CM Dolly Cart\n- Auto Ground Projection component for CM Smooth Path",
   "type": "tool"

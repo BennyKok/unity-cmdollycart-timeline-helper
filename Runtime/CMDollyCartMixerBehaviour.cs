@@ -57,6 +57,8 @@ namespace BK.CMDollyCartTimelineHelper
                 if (inputWeight == 1)
                 {
                     // var maxTime = Mathf.Min((float)inputPlayable.GetTime(), (float)inputPlayable.GetDuration());
+                    dollyCart.m_Speed = 0;
+                    
                     switch (input.positionMode)
                     {
                         case CMDollyCartBehaviour.PositionMode.BaseOnOriginal:

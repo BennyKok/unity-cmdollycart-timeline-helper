@@ -2,7 +2,7 @@
 
 Install as upm package from git url
 ```
-https://github.com/BennyKok/cmdollycart-timeline-helper.git
+https://github.com/BennyKok/unity-cmdollycart-timeline-helper
 ```
 
 ## Features

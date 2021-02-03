@@ -16,7 +16,6 @@ https://github.com/BennyKok/cmdollycart-timeline-helper.git
 ![Imgur](https://i.imgur.com/jNi7hr0.gif)
 
 ## Explore
-Feel free to check out some of my free assets and site.
+Feel free to check me out!! :)
 
-- [AssetStore](https://assetstore.unity.com/publishers/28510)
-- [BennyKok](https://bennykok.com)
+[Twitter](https://twitter.com/BennyKokMusic) | [Website](https://bennykok.com) | [AssetStore](https://assetstore.unity.com/publishers/28510)
